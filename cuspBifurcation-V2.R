@@ -1,3 +1,8 @@
+# Criado por Eduardo Cerqueira e Silva e Rafael Dettogni Guariento.
+# Todos os direitos reservados
+# E-mail: duducerqueira.br@gmail.com
+# GitHub: https://github.com/eduardosph/Multiestabilidade-em-popula-es-de-pragas-e-seus-predadores-naturais-sob-o-uso-de-pesticidas
+
 library(ggplot2)
 library(dplyr)
 library(tidyr)
